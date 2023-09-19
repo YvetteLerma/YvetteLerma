@@ -28,7 +28,7 @@ Aspiring Software Engineer | Specializing in C# and .NET Framework | Ambitious t
 
 About me:
 
-I'm passionate about the world of software development, and my journey is all about bringing ideas to life through code. My focus is on mastering C# and the .NET framework, and I'm driven by the belief that well-crafted software can transform industries and improve lives.
+My focus is on mastering C# and the .NET framework, and I'm driven by the belief that well-crafted software can transform industries and improve lives.
 
 🚀 Here's what I bring to the table:
 
