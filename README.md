@@ -28,7 +28,11 @@ Aspiring Software Engineer | Specializing in C# and .NET Framework | Ambitious t
 
 About me:
 
-I thrive in team environments, where I can learn from others and contribute my insights. I love tackling challenges head-on. Whether it's debugging a tricky issue or architecting a scalable solution, I enjoy the process of finding the best path forward. I'm committed to lifelong learning. While I'm not one to overestimate my abilities, I am ambitious about my career. I'm eager to work with forward-thinking teams and contribute to projects that have a real impact.
+I am currently working on building a firm foundation in .NET framework and C# by working on projects that will increase knowledge in my perferred language.
+
+While I'm not one to overestimate my abilities, I am ambitious about my career. I'm eager to work with forward thinking individuals that will provide insight on my journey.
+
+Outside of tech, I enjoy spending time with my family, deep diving my faith, and making bread.
 
 ---------
 TECH:
