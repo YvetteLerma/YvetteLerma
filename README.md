@@ -21,7 +21,7 @@ Aspiring Software Engineer | Specializing in C# and .NET Framework | Ambitious t
 
 <div align="center">
     <a href="https://www.linkedin.com/in/lermayvette">
-        <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn">
+       <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn">
     </a>
 </div>
 
