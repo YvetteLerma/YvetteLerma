@@ -28,18 +28,11 @@ Aspiring Software Engineer | Specializing in C# and .NET Framework | Ambitious t
 
 About me:
 
-My focus is on mastering C# and the .NET framework, and I'm driven by the belief that well-crafted software can transform industries and improve lives.
+I thrive in team environments, where I can learn from others and contribute my insights. I love tackling challenges head-on. Whether it's debugging a tricky issue or architecting a scalable solution, I enjoy the process of finding the best path forward. I'm committed to lifelong learning. While I'm not one to overestimate my abilities, I am ambitious about my career. I'm eager to work with forward-thinking teams and contribute to projects that have a real impact.
 
-🚀 Here's what I bring to the table:
-
-🛠️ Technical Proficiency: I'm dedicated to honing my skills in C# and the .NET ecosystem, striving to create efficient and elegant solutions to complex problems.
-
-🤝 Collaborative Spirit: I thrive in team environments, where I can learn from others and contribute my insights. Building great software often requires diverse perspectives and teamwork.
-
-🔍 Problem Solver: I love tackling challenges head-on. Whether it's debugging a tricky issue or architecting a scalable solution, I enjoy the process of finding the best path forward.
-
-📚 Continuous Learning: In the ever-evolving tech landscape, I'm committed to lifelong learning. I stay up-to-date with industry trends and emerging technologies to remain at the forefront of software engineering.
-
-🌟 Ambition: While I'm not one to overestimate my abilities, I am ambitious about my career. I'm eager to work with forward-thinking teams and contribute to projects that have a real impact.
-
-I'm currently seeking opportunities to grow as a software engineer and make meaningful contributions to innovative projects. If you're interested in collaborating or discussing potential employment opportunities, please feel free to connect. Let's connect and explore how we can shape the future of software together!
+---------
+TECH:
+<br>
+<img align="left" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
